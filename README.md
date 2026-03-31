@@ -48,3 +48,9 @@ Example output figures are included in `analysis/figures/`.
 ## Notes
 This repository contains a curated subset of a larger project.  
 Experimental data are not included for privacy and ethical reasons.
+
+
+## Try the Experiment
+
+You can try the experiment online here:
+https://www.sprachexperimente.psychologie.uni-tuebingen.de/online_knob5/index.html
